@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-ai-platform-ui",
+  "version": "0.1.0",
+  "description": "WebWaka ai-platform suite - ui",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
